@@ -1,0 +1,16 @@
+{
+  "intents": [
+    {
+      "intent": "GetItemIntent"
+    },
+    {
+      "intent": "PostItemIntent"
+    },
+    {
+      "intent": "DeleteItemIntent"
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    }
+  ]
+}
